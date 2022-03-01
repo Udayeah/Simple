@@ -4,7 +4,9 @@ Thank you! For your help.
 
 Hi Client Kim
 
-This Change available only in NewBranch
+This Change available only in NewBranch from NB
+
+
 
 Regards,
 Udayakumar S
